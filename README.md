@@ -14,3 +14,9 @@ run below command to create modules:
 ```bash
 nest generate module users
 ```
+
+run below command to use built-in ValidationPipe:
+```bash
+npm i class-validator class-transformer
+```
+
